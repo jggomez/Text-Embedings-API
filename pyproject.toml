@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "textembeddingapi"
+version = "1.0.0"
+description = ""
+authors = ["jggomez <juan.gomez01@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+mediapipe = "^0.10.1"
+fastapi = "^0.96.0"
+uvicorn = "^0.22.0"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^7.3.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
