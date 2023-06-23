@@ -32,6 +32,13 @@ The structure of the response is like this:
 }
 ```
 
+You can try it with the following link
+
+```
+https://textembeddings-gzedfdcm3q-uc.a.run.app/apis/v1/textembeddings
+```
+
+
 Made with ❤ by  [jggomez](https://devhack.co).
 
 [![Twitter Badge](https://img.shields.io/badge/-@jggomezt-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jggomezt)](https://twitter.com/jggomezt)
