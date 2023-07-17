@@ -29,7 +29,7 @@ class GetTextSimilarityEmbeddings:
             embedding_result_text1 = text_embedder.embed(text1)
             embedding_result_text2 = text_embedder.embed(text2)
 
-        # User another library for using cosine or euclides method
+        # Cosine or Euclid method used
         similarity = TextEmbedder.cosine_similarity(
             embedding_result_text1.embeddings[0],
             embedding_result_text2.embeddings[0]
