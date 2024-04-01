@@ -11,7 +11,7 @@ Embeddings are commonly used for [OpenAI Ref](https://platform.openai.com/docs/g
 
 [MediaPipe](https://developers.google.com/mediapipe) is a set of On-Device Machine Learning libraries ready for deployment in production. There are libraries for Android, iOS, Web, and Python. One of the multiple solutions is to create a numerical representation of text data, this means the embeddings.
 
-This is an open-source code used MediaPipe for creating the embeddings and cosine as a similarity measure. This code is ready for deployment in GCP o another cloud platform. 
+This is an open-source code used MediaPipe for creating the embeddings and cosine as a similarity measure. This code is ready for deployment in GCP or another cloud platform. 
 
 Once is deployed the request is like this:
 
